@@ -45,11 +45,11 @@ boto3, aws-cli, flask, flask_cors, nltk.corpus, urllib, nltk.tokenize, gensim, y
 # Smart Quiz:
 ![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/SmartQuiz.png)
 
-# Smart Notes:
-![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/SmartNotes.png)
-
 # Smart Quiz Report:
 ![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/QuizReport.png)
+
+# Smart Notes:
+![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/SmartNotes.png)
 
 # Smart Notes Edit:
 ![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/EditNotes.png)
