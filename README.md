@@ -39,6 +39,9 @@ boto3, aws-cli, flask, flask_cors, nltk.corpus, urllib, nltk.tokenize, gensim, y
 
 # Product Screenshots:
 
+# Smart Video Plugin Popup:
+![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/Plugin.png)
+
 # Smart Quiz:
 ![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/SmartQuiz.png)
 
@@ -53,6 +56,3 @@ boto3, aws-cli, flask, flask_cors, nltk.corpus, urllib, nltk.tokenize, gensim, y
 
 # Download Notes Edit:
 ![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/DownloadNotes.png)
-
-# Smart Video Plugin Popup:
-![alt text](https://github.com/msvdpriya/Smart-Video/blob/master/Screenshots/Plugin.png)
