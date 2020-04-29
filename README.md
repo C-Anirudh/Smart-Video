@@ -1,4 +1,4 @@
-# Smart Teacher
+# Smart Video
 Browser extension that uses NLP and Machine Learning to automatically generate MCQ based quizzes and smart notes for educational videos in youtube and other ed-tech websites.
 
 # Inspiration
@@ -10,7 +10,7 @@ In this process, there is a lack of feedback; there is no one to test you if you
 
 We have built a web browser extension that automatically generates a quiz and smart notes for videos in YouTube and other EdTech websites using NLP (Natural Language Processing) and Machine Learning. A user can self-evaluate their understanding by taking the quiz while watching the video. Each question presents the user with an option to move back to the part of the video from where the question was generated. This will help the user in revising the concepts which they weren’t able to understand when they watched the video the first time.
 
-We also generate smart notes and summary for the video. Our smart notes also provide meanings and examples for certain key words in the notes so that a user can easily understand the overall content of the notes. User can also click on any sentence in the notes to navigate to the point in the video from where the concept summarized in the sentence is explained.
+We also generate smart notes and summary for the video. Our smart notes also provide meanings and examples for certain key words in the notes so that a user can easily understand the overall content of the notes. User can also click on any sentence in the notes to navigate to the point in the video from where the concept summarized in the sentence is explained.Smart notes also provides user with an option to edit and customize the notes.
 
 
 
@@ -20,20 +20,20 @@ We also generate smart notes and summary for the video. Our smart notes also pro
 
 **NOTE:** Make sure that you have installed all of the python packages/dependencies listed below:
 boto3, aws-cli, flask, flask_cors, nltk.corpus, urllib, nltk.tokenize, gensim, youtube_dl, punctuator, requests, nltk.tag
-1. Download/Clone the folder SmartTeacherBackend from the Github Repository.
-2. cd to SmartTeacherBackend folder on your machine and run api.py. This will serve Flask app in development mode.
+1. Download/Clone the folder SmartVideoBackend from the Github Repository.
+2. cd to SmartVideoBackend folder on your machine and run api.py. This will serve Flask app in development mode.
 
 **Steps to download and install the plugin:**
-1. Download/Clone the folder SmartTeacherPlugin from the Github Repository.
+1. Download/Clone the folder SmartVideoPlugin from the Github Repository.
 2. Open Chrome web browser. 
 3. In browser's search bar, type chrome://extensions/
 4. In the extenstions page, click on 'developer mode' at the top right corner of the page.
 5. Click on the 'Load Unpacked' button.
-6. Choose the folder 'SmartTeacherPlugin/' to install Smart Teacher Plugin on your browser.
+6. Choose the folder 'SmartVideoPlugin/' to install Smart Video Plugin on your browser.
 
 **Finally, follow the steps mentioned below to test the project:**
 1. Open youtube on your chrome web browser.
-2. Click on the plugin icon next to the browser's search bar. Click on Enable Smart Quizzer button. 
+2. Click on the plugin icon next to the browser's search bar. Click on Enable Smart Video button. 
 3. Browse an educational video. The plugin will automatically generate smart quiz and smart notes.
 
 
@@ -51,5 +51,5 @@ boto3, aws-cli, flask, flask_cors, nltk.corpus, urllib, nltk.tokenize, gensim, y
 # Smart Quiz Report:
 ![alt text]()
 
-# Smart Teacher Plugin Popup:
+# Smart Video Plugin Popup:
 ![alt text]()
